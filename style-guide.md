@@ -10,7 +10,7 @@ The designs were created to the following widths:
 ## Colors
 
 ### Primary
-
+color:hsl(171, 66%, 44%);
 - Strong Cyan: hsl(171, 66%, 44%)
 - Light Blue: hsl(233, 100%, 69%)
 
